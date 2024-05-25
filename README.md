@@ -1,3 +1,21 @@
+Require [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.300-windows-x64-installer)  
+You can choose to download a [prebuilded binary](github.com/XenoS-ITA/CodeWalker/releases/latest) or [build it yourself](#how-to-build-codewalkerconverter-optional)
+
+# Changelog
+- Added Codewalker.Converter
+- Changed RuntimeIdentifier to win-x64
+
+# How to build Codewalker.Converter (Optional)
+- Open the `Codewalker.sln` with Visual Studio (im using: VS Community 2022, Version 17.9.5)
+- In the `Solution Explorer` right click `Codewalker.Converter` and click `Publish`
+- Click `New profile`
+- As target and specific target use `Folder` and after that click `Finish`
+- Now you can click `Publish`
+- Open `\CodeWalker.Converter\bin\Release\net8.0\win-x64\publish` and you should find the `CodeWalker.Converter.exe`, you can now copy and paste in in the addon folder of the modified version of sollumz
+
+# CodeWalker original readme
+---
+
 <div align="center">
     <h1>CodeWalker by dexyfex</h1>
     This program is for viewing the contents of GTAV RPF archives.
