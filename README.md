@@ -11,7 +11,7 @@ You can choose to download a [prebuilded binary](https://github.com/XenoS-ITA/Co
 - Click `New profile`
 - As target and specific target use `Folder` and after that click `Finish`
 - Now you can click `Publish`
-- Open `\CodeWalker.Converter\bin\Release\net8.0\win-x64\publish` and you should find the `CodeWalker.Converter.exe`, you can now copy and paste in in the addon folder of the modified version of sollumz
+- Open `\CodeWalker.Converter\bin\Release\net8.0\win-x64\publish` and you should find the `CodeWalker.Converter.exe`, you can now copy and paste it in the addon folder of the modified version of sollumz
 
 # CodeWalker original readme
 ---
