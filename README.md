@@ -1,5 +1,5 @@
 Require [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.300-windows-x64-installer)  
-You can choose to download a [prebuilded binary](github.com/XenoS-ITA/CodeWalker/releases/latest) or [build it yourself](#how-to-build-codewalkerconverter-optional)
+You can choose to download a [prebuilded binary](https://github.com/XenoS-ITA/CodeWalker/releases/latest) or [build it yourself](#how-to-build-codewalkerconverter-optional)
 
 # Changelog
 - Added Codewalker.Converter
